@@ -132,7 +132,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/bg.jpg) no-repeat center center fixed;
+  background: url(../img/rd-img.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -162,7 +162,7 @@ body {
   height: 218px;
   width: 128px;
   margin: 0 auto;
-  background: url(../img/rd-img.png);
+  background: url();
 }
 
 i.service-icon {
